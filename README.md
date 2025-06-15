@@ -1,13 +1,2 @@
-# Hi, I'm Gaurav 👋
+### hey, i'm gaurav 
 
-Developer passionate about building meaningful software.
-
----
-
-**Currently:** Learning and exploring new technologies  
-**Focus:** Clean code, efficient solutions  
-**Connect:** [GitHub](https://github.com/Gaurav-1306)
-
----
-
-*"Simple is better than complex."*
